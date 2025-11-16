@@ -82,8 +82,11 @@ Run the UI:
 
 streamlit run app.py
 
+<img width="933" height="972" alt="Screenshot 2025-11-16 195704" src="https://github.com/user-attachments/assets/33e38707-80c3-4070-bd0f-b09d4de09b6c" />
 
-Upload a CSV or PKL file and download fraud predictions.
+Upload a CSV or PKL
+<img width="918" height="870" alt="Screenshot 2025-11-16 195718" src="https://github.com/user-attachments/assets/fd1478e6-c4da-468c-ac0a-f0e2cf0eeda6" />
+file and download fraud predictions.
 
 📈 Output Example
 
