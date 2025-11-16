@@ -25,13 +25,20 @@ Compromised Terminals	2 random terminals become fraudulent for 28 days
 Compromised Customers	3 random customers have 1/3 transactions multiplied by 5 (fraud)
 📂 Project Structure
 fraud_detection/
+
 │
-├── artifacts/                   # model will be saved here (fraud_model.joblib)
-├── app.py                       # Streamlit UI
-├── inference.py                 # Script for batch predictions
-├── train.py                     # Model training script
-├── requirements.txt             # Dependencies
-└── data/ (not included)         # PKL dataset folder (user must provide)
+├── artifacts/                # model will be saved here (fraud_model.joblib)
+
+├── app.py                     # Streamlit UI
+
+├── inference.py               # Script for batch predictions
+
+├── train.py                   # Model training script
+
+├── requirements.txt           # Dependencies
+
+└── data/ (not included)       # PKL dataset folder (user must provide)
+
 
 🚀 Installation
 git clone https://github.com/yourusername/fraud_detection.git
