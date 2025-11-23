@@ -41,8 +41,6 @@ fraud_detection/
 
 
 🚀 Installation
-git clone https://github.com/yourusername/fraud_detection.git
-cd fraud_detection
 pip install -r requirements.txt
 
 📊 Training the Model
